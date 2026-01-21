@@ -1,0 +1,4 @@
+order_id,product_id,seller_id,price,freight_value
+O001,P001,S001,1200,50
+O002,P002,S002,850,40
+O003,P001,S001,1200,60

@@ -1,0 +1,4 @@
+order_id,payment_type,payment_value
+O001,credit_card,1250
+O002,upi,890
+O003,credit_card,1260
